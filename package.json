@@ -1,8 +1,8 @@
 {
-  "name": "genesis-ui",
-  "version": "1.8.0",
-  "description": "Bootstrap 4 Admin Template",
-  "author": "Łukasz Holeczek <lukasz@holeczek.pl>",
+  "name": "prototype",
+  "version": "0.1.0",
+  "description": "test to see how viablity of vue with clever ui",
+  "author": "Jason Hooten <jason.hooten@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
